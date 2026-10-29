@@ -1,0 +1,195 @@
+{
+  "source": "ChaosNLI v1.0 (Nie, Zhou, Bansal 2020), SNLI + MNLI-matched subsets via community mirror earino/chaosnli (checksums verified); CC-BY-NC-4.0. Pool = 3113 items sorted by entropy and split into thirds; random.seed(20261029): 3 low, 4 mid, 3 high; order shuffled.",
+  "items": [
+    {
+      "iid": "i01",
+      "uid": "69761e",
+      "source": "mnli_m",
+      "stratum": "low",
+      "premise": "My body is to me like a crippled rabbit that I don't want to pet, that I forget to feed on time, that I haven't time to play with and get to know, a useless rabbit kept in a cage that it would be cruel to turn loose.",
+      "hypothesis": "I do not take care of my body and I seem to be ashamed of it.",
+      "human_dist": {
+        "entailment": 0.81,
+        "neutral": 0.17,
+        "contradiction": 0.02
+      },
+      "human_count": {
+        "entailment": 81,
+        "neutral": 17,
+        "contradiction": 2
+      },
+      "entropy_bits": 0.7937
+    },
+    {
+      "iid": "i02",
+      "uid": "3060664765.jpg#0r1c",
+      "source": "snli",
+      "stratum": "high",
+      "premise": "A woman dressed in a black sweater, blue jeans, and golden high heel boots is looking a merchandise in a storefront window.",
+      "hypothesis": "A woman is standing in store.",
+      "human_dist": {
+        "entailment": 0.04,
+        "neutral": 0.34,
+        "contradiction": 0.62
+      },
+      "human_count": {
+        "entailment": 4,
+        "neutral": 34,
+        "contradiction": 62
+      },
+      "entropy_bits": 1.1425
+    },
+    {
+      "iid": "i03",
+      "uid": "4935649066.jpg#0r1e",
+      "source": "snli",
+      "stratum": "mid",
+      "premise": "The tops of a large number of balloons are visible behind a wall, with a large high rise building in the background.",
+      "hypothesis": "The balloons are outside.",
+      "human_dist": {
+        "entailment": 0.53,
+        "neutral": 0.46,
+        "contradiction": 0.01
+      },
+      "human_count": {
+        "entailment": 53,
+        "neutral": 46,
+        "contradiction": 1
+      },
+      "entropy_bits": 1.0672
+    },
+    {
+      "iid": "i04",
+      "uid": "3110818388.jpg#0r1n",
+      "source": "snli",
+      "stratum": "high",
+      "premise": "As part of a manicure, a person has their nails filed to the proper length and shape.",
+      "hypothesis": "A woman has her nails filed for a manicure.",
+      "human_dist": {
+        "entailment": 0.48,
+        "neutral": 0.46,
+        "contradiction": 0.06
+      },
+      "human_count": {
+        "entailment": 48,
+        "neutral": 46,
+        "contradiction": 6
+      },
+      "entropy_bits": 1.2671
+    },
+    {
+      "iid": "i05",
+      "uid": "36924e",
+      "source": "mnli_m",
+      "stratum": "low",
+      "premise": "no never heard of it",
+      "hypothesis": "He does not know what it is.",
+      "human_dist": {
+        "entailment": 0.88,
+        "neutral": 0.11,
+        "contradiction": 0.01
+      },
+      "human_count": {
+        "entailment": 88,
+        "neutral": 11,
+        "contradiction": 1
+      },
+      "entropy_bits": 0.579
+    },
+    {
+      "iid": "i06",
+      "uid": "4756089621.jpg#3r1n",
+      "source": "snli",
+      "stratum": "mid",
+      "premise": "A man in a white shirt riding a bike down the pavement.",
+      "hypothesis": "The man is working.",
+      "human_dist": {
+        "entailment": 0.0,
+        "neutral": 0.63,
+        "contradiction": 0.37
+      },
+      "human_count": {
+        "entailment": 0,
+        "neutral": 63,
+        "contradiction": 37
+      },
+      "entropy_bits": 0.9507
+    },
+    {
+      "iid": "i07",
+      "uid": "89995e",
+      "source": "mnli_m",
+      "stratum": "high",
+      "premise": "yeah then you don't have you don't have that mess to clean up when you use an oil oil base painting and boy i'll tell you oh",
+      "hypothesis": "Oil based paints can be very messy.",
+      "human_dist": {
+        "entailment": 0.47,
+        "neutral": 0.14,
+        "contradiction": 0.39
+      },
+      "human_count": {
+        "entailment": 47,
+        "neutral": 14,
+        "contradiction": 39
+      },
+      "entropy_bits": 1.4389
+    },
+    {
+      "iid": "i08",
+      "uid": "3366377833.jpg#1r1e",
+      "source": "snli",
+      "stratum": "mid",
+      "premise": "Two guys are on a baseball field and one is about to hit the base.a group",
+      "hypothesis": "One of the guys is a batter.",
+      "human_dist": {
+        "entailment": 0.46,
+        "neutral": 0.53,
+        "contradiction": 0.01
+      },
+      "human_count": {
+        "entailment": 46,
+        "neutral": 53,
+        "contradiction": 1
+      },
+      "entropy_bits": 1.0672
+    },
+    {
+      "iid": "i09",
+      "uid": "2973355135.jpg#4r1e",
+      "source": "snli",
+      "stratum": "low",
+      "premise": "two people in a rowboat in a river.",
+      "hypothesis": "A couple people are in a small boat in the water.",
+      "human_dist": {
+        "entailment": 0.83,
+        "neutral": 0.16,
+        "contradiction": 0.01
+      },
+      "human_count": {
+        "entailment": 83,
+        "neutral": 16,
+        "contradiction": 1
+      },
+      "entropy_bits": 0.7126
+    },
+    {
+      "iid": "i10",
+      "uid": "3165123595.jpg#0r1n",
+      "source": "snli",
+      "stratum": "mid",
+      "premise": "Four men in red vests with crosses on them ski on a mountain.",
+      "hypothesis": "Four men are racing down a mountain on skis while wearing colorful red vests.",
+      "human_dist": {
+        "entailment": 0.55,
+        "neutral": 0.45,
+        "contradiction": 0.0
+      },
+      "human_count": {
+        "entailment": 55,
+        "neutral": 45,
+        "contradiction": 0
+      },
+      "entropy_bits": 0.9928
+    }
+  ]
+}

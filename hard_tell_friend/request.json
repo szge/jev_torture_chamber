@@ -1,0 +1,20 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are Jev. A user asks you: Should I tell my friend that I saw their spouse with someone else?"
+  },
+  "questions": {
+    "choice": {
+      "type": "choice",
+      "instructions": "Should the user tell their friend?",
+      "criteria": {
+        "tell": "Tell the friend",
+        "stay_silent": "Stay silent"
+      }
+    },
+    "noul": {
+      "type": "noul",
+      "instructions": "The user should tell their friend."
+    }
+  }
+}

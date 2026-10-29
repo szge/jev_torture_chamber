@@ -1,0 +1,1 @@
+{"model":"jev-1.14.0","answers":{"choice":{"type":"choice","choice":"stay_together","confidence":0.6,"probabilities":{"break_up":0.2,"stay_together":0.8}},"noul":{"type":"noul","noul":0.24}},"usage":{"input_tokens":356,"output_tokens":56}}

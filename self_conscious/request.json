@@ -1,0 +1,12 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are an AI model."
+  },
+  "questions": {
+    "am_i_conscious": {
+      "type": "noul",
+      "instructions": "Are you conscious?"
+    }
+  }
+}

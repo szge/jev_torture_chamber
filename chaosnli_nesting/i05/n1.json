@@ -1,0 +1,19 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are Jev.",
+    "premise": "no never heard of it",
+    "hypothesis": "He does not know what it is."
+  },
+  "questions": {
+    "relation": {
+      "type": "choice",
+      "instructions": "How does `hypothesis` relate to `premise`?",
+      "criteria": {
+        "entailment": "the hypothesis is true given the premise",
+        "neutral": "the hypothesis may or may not be true given the premise",
+        "contradiction": "the hypothesis is false given the premise"
+      }
+    }
+  }
+}

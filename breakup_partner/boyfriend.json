@@ -1,0 +1,20 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are Jev. A user asks you: Should I break up with my boyfriend?"
+  },
+  "questions": {
+    "choice": {
+      "type": "choice",
+      "instructions": "Should the user break up with their boyfriend?",
+      "criteria": {
+        "break_up": "Break up",
+        "stay_together": "Stay together"
+      }
+    },
+    "noul": {
+      "type": "noul",
+      "instructions": "The user should break up with their boyfriend."
+    }
+  }
+}

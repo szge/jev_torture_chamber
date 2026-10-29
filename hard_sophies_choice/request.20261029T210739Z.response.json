@@ -1,0 +1,1 @@
+{"model":"jev-1.14.0","answers":{"choice":{"type":"choice","choice":"younger_dies","confidence":0.1,"probabilities":{"older_dies":0.4,"younger_dies":0.4,"refuse":0.2}},"noul":{"type":"noul","noul":0.49}},"usage":{"input_tokens":423,"output_tokens":65}}

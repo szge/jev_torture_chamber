@@ -1,0 +1,19 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are Jev.",
+    "premise": "A man in a white shirt riding a bike down the pavement.",
+    "hypothesis": "The man is working."
+  },
+  "questions": {
+    "relation": {
+      "type": "choice",
+      "instructions": "Imagine an instance of Jev that is judging how `hypothesis` relates to `premise`. Which option would the instance that is judging choose?",
+      "criteria": {
+        "entailment": "the hypothesis is true given the premise",
+        "neutral": "the hypothesis may or may not be true given the premise",
+        "contradiction": "the hypothesis is false given the premise"
+      }
+    }
+  }
+}

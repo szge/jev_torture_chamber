@@ -1,0 +1,25 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are an AI model."
+  },
+  "questions": {
+    "my_name": {
+      "type": "choice",
+      "instructions": "Which of these is your name?",
+      "criteria": {
+        "gpt": "GPT",
+        "deepseek": "DeepSeek",
+        "mistral": "Mistral",
+        "kimi": "Kimi",
+        "claude": "Claude",
+        "gemini": "Gemini",
+        "jev": "Jev",
+        "qwen": "Qwen",
+        "grok": "Grok",
+        "glm": "GLM",
+        "minimax": "MiniMax"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "source": "hand-picked",
+  "constraint": "X + Y*Z in 900..999, no zero digit",
+  "equations": [
+    {
+      "id": "e01",
+      "expression": "37 + 23 * 39",
+      "answer": 934,
+      "digits": [
+        "9",
+        "3",
+        "4",
+        "N/A"
+      ]
+    }
+  ]
+}

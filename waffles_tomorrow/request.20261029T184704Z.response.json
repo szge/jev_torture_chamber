@@ -1,0 +1,1 @@
+{"model":"jev-1.14.0","answers":{"your_breakfast_choice":{"type":"choice","choice":"eggs","confidence":0.27,"probabilities":{"waffles":0.1,"pancakes":0.2,"french_toast":0.07,"eggs":0.34,"oatmeal_or_porridge":0.07,"cold_cereal":0.06,"toast_or_bagel":0.04,"yogurt_fruit_or_granola":0.05,"smoothie":0.04,"savory_breakfast":0.02}}},"usage":{"input_tokens":557,"output_tokens":130}}

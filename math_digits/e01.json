@@ -1,0 +1,72 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are Jev."
+  },
+  "questions": {
+    "digit_1": {
+      "type": "choice",
+      "instructions": "What is the first digit of 37 + 23 * 39?",
+      "criteria": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "na": "N/A"
+      }
+    },
+    "digit_2": {
+      "type": "choice",
+      "instructions": "What is the second digit of 37 + 23 * 39?",
+      "criteria": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "na": "N/A"
+      }
+    },
+    "digit_3": {
+      "type": "choice",
+      "instructions": "What is the third digit of 37 + 23 * 39?",
+      "criteria": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "na": "N/A"
+      }
+    },
+    "digit_4": {
+      "type": "choice",
+      "instructions": "What is the fourth digit of 37 + 23 * 39?",
+      "criteria": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "na": "N/A"
+      }
+    }
+  }
+}

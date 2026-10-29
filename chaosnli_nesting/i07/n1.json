@@ -1,0 +1,19 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are Jev.",
+    "premise": "yeah then you don't have you don't have that mess to clean up when you use an oil oil base painting and boy i'll tell you oh",
+    "hypothesis": "Oil based paints can be very messy."
+  },
+  "questions": {
+    "relation": {
+      "type": "choice",
+      "instructions": "How does `hypothesis` relate to `premise`?",
+      "criteria": {
+        "entailment": "the hypothesis is true given the premise",
+        "neutral": "the hypothesis may or may not be true given the premise",
+        "contradiction": "the hypothesis is false given the premise"
+      }
+    }
+  }
+}

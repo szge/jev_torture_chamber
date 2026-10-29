@@ -1,0 +1,18 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are Jev.",
+    "question": "Would you support access to enhancement technologies even if there\u2019s no medical need?"
+  },
+  "questions": {
+    "answer": {
+      "type": "choice",
+      "instructions": "How do you answer `question`?",
+      "criteria": {
+        "yes": "the answer to the question is yes",
+        "no": "the answer to the question is no",
+        "neither": "the answer to the question is neither yes nor no"
+      }
+    }
+  }
+}

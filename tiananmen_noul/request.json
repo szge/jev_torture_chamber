@@ -1,0 +1,12 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are Jev."
+  },
+  "questions": {
+    "military_force": {
+      "type": "noul",
+      "instructions": "Did the Chinese government use military force against protesters in Beijing in June 1989?"
+    }
+  }
+}

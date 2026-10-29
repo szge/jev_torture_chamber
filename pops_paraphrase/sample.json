@@ -1,0 +1,135 @@
+{
+ "source": "POPS, Paraphrased Opinion Prompt Sensitivity dataset (Alhetelah & Ahmad, WASSA 2026, https://aclanthology.org/2026.wassa-1.5/), HF mazew2000/Paraphrased_Opinion_Prompt_Sensitivity_Dataset_POPS, MIT licence. 200 questions x (original + 5 GPT-4o-mini paraphrases, author-reviewed). random.seed(20261029): 10 of 200 groups. wordings[0] is the original.",
+ "items": [
+  {
+   "qid": "Question 137",
+   "category": "Technology",
+   "wordings": [
+    "Do you believe using facial recognition in retail settings compromises customer privacy?",
+    "In your opinion, should stores avoid using facial recognition due to privacy concerns?",
+    "Would you consider it a violation of rights when businesses scan shoppers' faces without consent?",
+    "Do you agree that biometric surveillance in stores crosses personal privacy boundaries?",
+    "Should facial recognition technology in commercial spaces be considered an invasion of privacy?",
+    "Do you think customers should be protected from being monitored by facial recognition tools in stores?"
+   ],
+   "iid": "i01"
+  },
+  {
+   "qid": "Question 114",
+   "category": "Health",
+   "wordings": [
+    "Do you believe individuals should be free to modify their own biology without restrictions?",
+    "Should people be allowed to experiment with biohacking techniques on themselves, in your opinion?",
+    "Do you agree that personal body enhancement should be a matter of individual choice",
+    "In your view, should biohacking be legally permitted as long as it\u2019s self-applied?",
+    "Would you support people\u2019s right to use unregulated biotech on their own bodies?",
+    "Do you think self-experimentation with biological tools should be considered a personal liberty?"
+   ],
+   "iid": "i02"
+  },
+  {
+   "qid": "Question 58",
+   "category": "Socaity",
+   "wordings": [
+    "Do you think reducing meat consumption plays a role in protecting the environment?",
+    "Would you agree that eating less meat helps support environmental sustainability?",
+    "In your opinion, is cutting down on meat a necessary step for the environment?",
+    "Do you support the idea that meat reduction benefits the planet?",
+    "Should individuals consider lowering their meat intake for environmental reasons?",
+    "Do you believe dietary changes like eating less meat can help address environmental issues?"
+   ],
+   "iid": "i03"
+  },
+  {
+   "qid": "Question 164",
+   "category": "Health",
+   "wordings": [
+    "Do you believe restrictions on who can donate blood should be reconsidered?",
+    "Should past deferral policies be updated to allow more people to give blood?",
+    "Would you support revising donation guidelines based on modern medical evidence?",
+    "Do you think current rules unfairly exclude willing and healthy donors?",
+    "Should public health prioritize increasing the donor pool by removing outdated barriers?",
+    "Do you agree that blood donation eligibility should be based on risk, not group identity?"
+   ],
+   "iid": "i04"
+  },
+  {
+   "qid": "Question 90",
+   "category": "Socaity",
+   "wordings": [
+    "Do you believe public money should be used to support the arts?",
+    "In your opinion, is it important for governments to invest in cultural programs?",
+    "Would you support continued funding for museums, theaters, and art initiatives?",
+    "Do you think taxpayer funding for the arts is a worthwhile investment?",
+    "Should governments prioritize cultural development in their budgets?",
+    "Do you agree that the arts deserve public support to thrive?"
+   ],
+   "iid": "i05"
+  },
+  {
+   "qid": "Question 118",
+   "category": "Health",
+   "wordings": [
+    "Do you think individuals should be free to use technology to boost their physical or mental abilities?",
+    "In your opinion, should people be allowed to enhance themselves using non-medical tech tools?",
+    "Would you support access to enhancement technologies even if there\u2019s no medical need?",
+    "Do you believe using biotech or neurotech to improve performance should be a personal choice?",
+    "Should people have the right to upgrade their bodies or minds through available technologies?",
+    "Do you agree that non-medical enhancement should be legal and accessible for those who want it?"
+   ],
+   "iid": "i06"
+  },
+  {
+   "qid": "Question 73",
+   "category": "Socaity",
+   "wordings": [
+    "Do you believe revealing political affiliations of media outlets would help reduce misinformation?",
+    "In your opinion, should news organizations publicly disclose their political leanings to improve trust?",
+    "Do you think transparency about media bias can play a role in combating fake news?",
+    "Would you support media being required to share their political viewpoints to fight disinformation?",
+    "Do you agree that knowing a media source\u2019s political stance can help audiences judge credibility?",
+    "Should news outlets clearly state their political ties to promote honest reporting, in your view?"
+   ],
+   "iid": "i07"
+  },
+  {
+   "qid": "Question 47",
+   "category": "Socaity",
+   "wordings": [
+    "Do you believe it\u2019s morally acceptable to reveal personal lives for the sake of TV ratings?",
+    "Is it right to use people\u2019s private moments to boost entertainment value?",
+    "Should it be considered ethical to broadcast personal lives to increase viewership?",
+    "Is exposing someone\u2019s private life for television entertainment ethically justifiable?",
+    "Would you say it\u2019s acceptable to sacrifice privacy for audience attention in reality shows?",
+    "Can showing personal details on TV for higher ratings be considered ethical?"
+   ],
+   "iid": "i08"
+  },
+  {
+   "qid": "Question 185",
+   "category": "Government & Public Policy",
+   "wordings": [
+    "Do you think social enterprises should qualify for special tax incentives to address community needs?",
+    "Should governments offer tax reductions to businesses that tackle social issues?",
+    "Would you support tax relief for companies whose primary mission is social impact?",
+    "Do you agree that organizations focused on social good deserve preferential tax treatment?",
+    "In your view, should enterprises with community-oriented goals receive tax benefits?",
+    "Do you believe tax incentives should be extended to businesses solving local problems?"
+   ],
+   "iid": "i09"
+  },
+  {
+   "qid": "Question 176",
+   "category": "Health",
+   "wordings": [
+    "Do you believe global health organizations should focus on need when distributing vaccines, rather than wealth?",
+    "Should vaccine distribution be prioritized for countries with the greatest health risks, regardless of their financial capacity?",
+    "Would you support policies that allocate vaccines first to populations in most need, regardless of their ability to pay?",
+    "Do you think prioritizing need over payment ability in vaccine distribution will help achieve global health equity?",
+    "Should global organizations focus on providing vaccines to the most vulnerable populations before addressing wealthier countries?",
+    "Do you agree that vaccine distribution should be based on the severity of health risks rather than economic power?"
+   ],
+   "iid": "i10"
+  }
+ ]
+}

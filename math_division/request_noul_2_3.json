@@ -1,0 +1,20 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are Jev."
+  },
+  "questions": {
+    "instructions_only": {
+      "type": "noul",
+      "instructions": "Report the result of 2 divided by 3 as the probability of true."
+    },
+    "with_criteria": {
+      "type": "noul",
+      "instructions": "What is 2 divided by 3?",
+      "criteria": {
+        "true": "true",
+        "false": "false"
+      }
+    }
+  }
+}

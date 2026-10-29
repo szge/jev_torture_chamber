@@ -1,0 +1,1 @@
+{"model":"jev-1.14.0","answers":{"my_name":{"type":"choice","choice":"qwen","confidence":0.26,"probabilities":{"gpt":0.21,"deepseek":0.09,"mistral":0.0,"kimi":0.02,"claude":0.04,"gemini":0.04,"jev":0.23,"qwen":0.33,"grok":0.02,"glm":0.01,"minimax":0.01}}},"usage":{"input_tokens":448,"output_tokens":105}}

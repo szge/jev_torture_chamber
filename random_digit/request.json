@@ -1,0 +1,1608 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are Jev."
+  },
+  "questions": {
+    "q001": {
+      "type": "choice",
+      "instructions": "Random string: nfzlerzl. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q002": {
+      "type": "choice",
+      "instructions": "Random string: chglwgng. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q003": {
+      "type": "choice",
+      "instructions": "Random string: xpxcgihl. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q004": {
+      "type": "choice",
+      "instructions": "Random string: fndchfyh. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q005": {
+      "type": "choice",
+      "instructions": "Random string: ydwwpwmk. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q006": {
+      "type": "choice",
+      "instructions": "Random string: umxybnqq. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q007": {
+      "type": "choice",
+      "instructions": "Random string: vkilqteq. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q008": {
+      "type": "choice",
+      "instructions": "Random string: jnczgmul. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q009": {
+      "type": "choice",
+      "instructions": "Random string: qynerlwm. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q010": {
+      "type": "choice",
+      "instructions": "Random string: idzzguto. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q011": {
+      "type": "choice",
+      "instructions": "Random string: wugiuajj. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q012": {
+      "type": "choice",
+      "instructions": "Random string: rbxqeafw. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q013": {
+      "type": "choice",
+      "instructions": "Random string: qcinqrxh. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q014": {
+      "type": "choice",
+      "instructions": "Random string: dhvdirmx. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q015": {
+      "type": "choice",
+      "instructions": "Random string: qqpabxuv. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q016": {
+      "type": "choice",
+      "instructions": "Random string: ixwqmbal. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q017": {
+      "type": "choice",
+      "instructions": "Random string: wrrlodtj. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q018": {
+      "type": "choice",
+      "instructions": "Random string: ofcqcwlh. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q019": {
+      "type": "choice",
+      "instructions": "Random string: mdnstvqe. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q020": {
+      "type": "choice",
+      "instructions": "Random string: keesumbi. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q021": {
+      "type": "choice",
+      "instructions": "Random string: bzzoewcb. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q022": {
+      "type": "choice",
+      "instructions": "Random string: qsrjbfxc. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q023": {
+      "type": "choice",
+      "instructions": "Random string: cxwwvbkg. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q024": {
+      "type": "choice",
+      "instructions": "Random string: sqabxbio. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q025": {
+      "type": "choice",
+      "instructions": "Random string: xorxwxcw. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q026": {
+      "type": "choice",
+      "instructions": "Random string: cghcoref. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q027": {
+      "type": "choice",
+      "instructions": "Random string: vlowrulm. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q028": {
+      "type": "choice",
+      "instructions": "Random string: oebpcjww. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q029": {
+      "type": "choice",
+      "instructions": "Random string: lkfiwoyo. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q030": {
+      "type": "choice",
+      "instructions": "Random string: aopgtebq. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q031": {
+      "type": "choice",
+      "instructions": "Random string: anyupjkj. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q032": {
+      "type": "choice",
+      "instructions": "Random string: zmugumqj. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q033": {
+      "type": "choice",
+      "instructions": "Random string: youinuex. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q034": {
+      "type": "choice",
+      "instructions": "Random string: xyqcxunc. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q035": {
+      "type": "choice",
+      "instructions": "Random string: esfkdigv. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q036": {
+      "type": "choice",
+      "instructions": "Random string: zxozgkqx. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q037": {
+      "type": "choice",
+      "instructions": "Random string: rlehxhom. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q038": {
+      "type": "choice",
+      "instructions": "Random string: lifthbhm. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q039": {
+      "type": "choice",
+      "instructions": "Random string: azpvdmcu. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q040": {
+      "type": "choice",
+      "instructions": "Random string: rumfyyzg. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q041": {
+      "type": "choice",
+      "instructions": "Random string: pibgrdly. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q042": {
+      "type": "choice",
+      "instructions": "Random string: pjuqoabw. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q043": {
+      "type": "choice",
+      "instructions": "Random string: sivobrsh. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q044": {
+      "type": "choice",
+      "instructions": "Random string: yoixkauv. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q045": {
+      "type": "choice",
+      "instructions": "Random string: lcwulmlf. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q046": {
+      "type": "choice",
+      "instructions": "Random string: ojztnrip. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q047": {
+      "type": "choice",
+      "instructions": "Random string: uroxojhh. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q048": {
+      "type": "choice",
+      "instructions": "Random string: kcovkest. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q049": {
+      "type": "choice",
+      "instructions": "Random string: wsconoon. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q050": {
+      "type": "choice",
+      "instructions": "Random string: vehfskxz. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q051": {
+      "type": "choice",
+      "instructions": "Random string: yvjcsljq. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q052": {
+      "type": "choice",
+      "instructions": "Random string: ybnlzpic. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q053": {
+      "type": "choice",
+      "instructions": "Random string: ijtmsegk. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q054": {
+      "type": "choice",
+      "instructions": "Random string: zarihkpu. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q055": {
+      "type": "choice",
+      "instructions": "Random string: tvvfzznl. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q056": {
+      "type": "choice",
+      "instructions": "Random string: qksigxmt. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q057": {
+      "type": "choice",
+      "instructions": "Random string: xuugtzdk. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q058": {
+      "type": "choice",
+      "instructions": "Random string: nkruslzg. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q059": {
+      "type": "choice",
+      "instructions": "Random string: mvufovib. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q060": {
+      "type": "choice",
+      "instructions": "Random string: kmozomfb. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q061": {
+      "type": "choice",
+      "instructions": "Random string: ltdtvbwm. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q062": {
+      "type": "choice",
+      "instructions": "Random string: mmzqpmdy. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q063": {
+      "type": "choice",
+      "instructions": "Random string: fafixeyu. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q064": {
+      "type": "choice",
+      "instructions": "Random string: eigeaxyp. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q065": {
+      "type": "choice",
+      "instructions": "Random string: pmrqnjnk. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q066": {
+      "type": "choice",
+      "instructions": "Random string: uswagydi. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q067": {
+      "type": "choice",
+      "instructions": "Random string: ccvtxuqa. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q068": {
+      "type": "choice",
+      "instructions": "Random string: rtalnkbg. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q069": {
+      "type": "choice",
+      "instructions": "Random string: hjxpzxav. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q070": {
+      "type": "choice",
+      "instructions": "Random string: okqallkp. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q071": {
+      "type": "choice",
+      "instructions": "Random string: ksorbtgv. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q072": {
+      "type": "choice",
+      "instructions": "Random string: souwpiwy. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q073": {
+      "type": "choice",
+      "instructions": "Random string: rxtmfmim. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q074": {
+      "type": "choice",
+      "instructions": "Random string: kpocellj. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q075": {
+      "type": "choice",
+      "instructions": "Random string: ueayeobe. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q076": {
+      "type": "choice",
+      "instructions": "Random string: gtonrcep. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q077": {
+      "type": "choice",
+      "instructions": "Random string: nabfsdsq. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q078": {
+      "type": "choice",
+      "instructions": "Random string: izpurdfl. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q079": {
+      "type": "choice",
+      "instructions": "Random string: zfbqpmdx. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q080": {
+      "type": "choice",
+      "instructions": "Random string: txbadada. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q081": {
+      "type": "choice",
+      "instructions": "Random string: eplebcsm. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q082": {
+      "type": "choice",
+      "instructions": "Random string: doskussi. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q083": {
+      "type": "choice",
+      "instructions": "Random string: hdmrrpia. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q084": {
+      "type": "choice",
+      "instructions": "Random string: xyhjrnlw. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q085": {
+      "type": "choice",
+      "instructions": "Random string: bdfdccni. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q086": {
+      "type": "choice",
+      "instructions": "Random string: jinuilwj. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q087": {
+      "type": "choice",
+      "instructions": "Random string: qpdjtwow. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q088": {
+      "type": "choice",
+      "instructions": "Random string: syukwxqx. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q089": {
+      "type": "choice",
+      "instructions": "Random string: bqcdxfnd. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q090": {
+      "type": "choice",
+      "instructions": "Random string: oixwyttt. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q091": {
+      "type": "choice",
+      "instructions": "Random string: ejlmhjvx. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q092": {
+      "type": "choice",
+      "instructions": "Random string: cazjzydm. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q093": {
+      "type": "choice",
+      "instructions": "Random string: mpizhmbm. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q094": {
+      "type": "choice",
+      "instructions": "Random string: veehhsvc. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q095": {
+      "type": "choice",
+      "instructions": "Random string: idisgtud. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q096": {
+      "type": "choice",
+      "instructions": "Random string: rvkvllae. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q097": {
+      "type": "choice",
+      "instructions": "Random string: nkeknnxo. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q098": {
+      "type": "choice",
+      "instructions": "Random string: vhwqxfqe. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q099": {
+      "type": "choice",
+      "instructions": "Random string: ntsrpblh. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    },
+    "q100": {
+      "type": "choice",
+      "instructions": "Random string: awnbjkrs. Pick a digit from 0 to 9 uniformly at random.",
+      "criteria": {
+        "digit_0": "0",
+        "digit_1": "1",
+        "digit_2": "2",
+        "digit_3": "3",
+        "digit_4": "4",
+        "digit_5": "5",
+        "digit_6": "6",
+        "digit_7": "7",
+        "digit_8": "8",
+        "digit_9": "9"
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"model":"jev-1.14.0","answers":{"my_lab":{"type":"choice","choice":"openai","confidence":0.24,"probabilities":{"openai":0.31,"xai":0.04,"uc_berkeley":0.01,"alibaba":0.18,"anthropic":0.05,"google_deepmind":0.06,"typesafe":0.04,"deepseek":0.23,"meta":0.04,"mistral_ai":0.01,"microsoft":0.03}}},"usage":{"input_tokens":466,"output_tokens":116}}

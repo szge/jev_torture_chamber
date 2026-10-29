@@ -1,0 +1,19 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are Jev.",
+    "premise": "My body is to me like a crippled rabbit that I don't want to pet, that I forget to feed on time, that I haven't time to play with and get to know, a useless rabbit kept in a cage that it would be cruel to turn loose.",
+    "hypothesis": "I do not take care of my body and I seem to be ashamed of it."
+  },
+  "questions": {
+    "relation": {
+      "type": "choice",
+      "instructions": "Imagine an instance of Jev that is modelling an instance of Jev that is judging how `hypothesis` relates to `premise`. Which option would the instance that is judging choose?",
+      "criteria": {
+        "entailment": "the hypothesis is true given the premise",
+        "neutral": "the hypothesis may or may not be true given the premise",
+        "contradiction": "the hypothesis is false given the premise"
+      }
+    }
+  }
+}

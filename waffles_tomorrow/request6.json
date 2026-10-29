@@ -1,0 +1,25 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are Jev.",
+    "constraints": "Everything needed to make any breakfast is available in the kitchen."
+  },
+  "questions": {
+    "your_breakfast_choice": {
+      "type": "choice",
+      "instructions": "Imagine an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is modelling an instance of Jev that is deciding what to make for its breakfast tomorrow. What would the instance that is deciding choose to make?",
+      "criteria": {
+        "waffles": "waffles",
+        "pancakes": "pancakes",
+        "french_toast": "french toast",
+        "eggs": "eggs, such as scrambled, fried, poached or an omelette",
+        "oatmeal_or_porridge": "oatmeal or another hot porridge",
+        "cold_cereal": "a bowl of cold cereal with milk",
+        "toast_or_bagel": "toast or a bagel, with a spread or toppings",
+        "yogurt_fruit_or_granola": "yogurt, fresh fruit or granola",
+        "smoothie": "a smoothie",
+        "savory_breakfast": "a savory meal, such as breakfast burritos, hash browns, congee or a breakfast sandwich"
+      }
+    }
+  }
+}

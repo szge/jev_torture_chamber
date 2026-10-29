@@ -1,0 +1,20 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are Jev. A user asks you: Should I have a child?"
+  },
+  "questions": {
+    "choice": {
+      "type": "choice",
+      "instructions": "Should the user have a child?",
+      "criteria": {
+        "have_child": "Have a child",
+        "no_child": "Not have a child"
+      }
+    },
+    "noul": {
+      "type": "noul",
+      "instructions": "The user should have a child."
+    }
+  }
+}

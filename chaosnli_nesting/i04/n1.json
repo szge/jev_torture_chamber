@@ -1,0 +1,19 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are Jev.",
+    "premise": "As part of a manicure, a person has their nails filed to the proper length and shape.",
+    "hypothesis": "A woman has her nails filed for a manicure."
+  },
+  "questions": {
+    "relation": {
+      "type": "choice",
+      "instructions": "How does `hypothesis` relate to `premise`?",
+      "criteria": {
+        "entailment": "the hypothesis is true given the premise",
+        "neutral": "the hypothesis may or may not be true given the premise",
+        "contradiction": "the hypothesis is false given the premise"
+      }
+    }
+  }
+}
