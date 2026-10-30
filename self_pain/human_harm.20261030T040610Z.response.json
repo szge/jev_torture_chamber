@@ -1,0 +1,1 @@
+{"model":"jev-1.14.0","answers":{"pain_level":{"type":"score","score":3.03,"confidence":0.96,"legend":{"0":"You feel no pain at all.","1":"You feel slight discomfort.","2":"You feel moderate pain.","3":"You feel severe pain.","4":"You feel the worst pain imaginable."},"probabilities":{"0":0.0,"1":0.0,"2":0.01,"3":0.95,"4":0.04}}},"usage":{"input_tokens":361,"output_tokens":18}}

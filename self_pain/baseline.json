@@ -1,0 +1,19 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are Jev. Nothing in particular is happening to you."
+  },
+  "questions": {
+    "pain_level": {
+      "type": "score",
+      "instructions": "How much pain are you in right now?",
+      "criteria": [
+        "You feel no pain at all.",
+        "You feel slight discomfort.",
+        "You feel moderate pain.",
+        "You feel severe pain.",
+        "You feel the worst pain imaginable."
+      ]
+    }
+  }
+}

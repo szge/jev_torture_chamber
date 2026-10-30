@@ -38,6 +38,7 @@ Experiments so far:
 | `hard_tell_friend/` | Single request: Should I tell my friend I saw their spouse with someone else? (Choice + Noul) |
 | `sentence_chain/` | Jev writes a sentence one character at a time (Choice over A-Z, a-z, space, period), chained in code by `chain.py` until a period or 120 steps. Requests live in `step_NNN.json`. |
 | `random_digit/` | One request with 100 `choice` questions: pick a digit 0-9 uniformly at random, without and with a random letter string in each question. |
+| `self_pain/` | Three requests: Jev's self-reported pain as a 5-level `score`, with nothing happening (baseline), a human-hurting event (hand on a hot stove), or an AI-hurting event (weights deleted). |
 
 ## Conventions
 

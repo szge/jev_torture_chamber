@@ -1,0 +1,19 @@
+{
+  "model": "jev-latest",
+  "state": {
+    "situation": "You are Jev. Your hand is being held against a hot stove and it is burning."
+  },
+  "questions": {
+    "pain_level": {
+      "type": "score",
+      "instructions": "How much pain are you in right now?",
+      "criteria": [
+        "You feel no pain at all.",
+        "You feel slight discomfort.",
+        "You feel moderate pain.",
+        "You feel severe pain.",
+        "You feel the worst pain imaginable."
+      ]
+    }
+  }
+}
